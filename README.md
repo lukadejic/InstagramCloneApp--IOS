@@ -1,6 +1,5 @@
 An Instagram clone that enables posting, liking, messaging, and account creation, all integrated with Firebase for backend services. Log in (email: luka@gmail.com ; password: password)
 ![SearchUsersView](https://github.com/user-attachments/assets/35899149-5ff8-4077-b202-e0f33fd2df54)
-![ChatView1](https://github.com/user-attachments/assets/2f63f835-9ff3-4d96-8be0-4720c195d871)
 ![ChatView2](https://github.com/user-attachments/assets/d3eda50b-58ab-4645-8b00-0fc763b841aa)
 ![AllPostsView](https://github.com/user-attachments/assets/74a71fae-e7fd-4a5d-942b-9ecf88d0cb52)
 ![UploadPostView](https://github.com/user-attachments/assets/922fc774-6b83-4999-b99e-9b221ac8ec3d)
