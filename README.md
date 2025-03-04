@@ -9,5 +9,6 @@ An Instagram clone that enables posting, liking, messaging, and account creation
 ![LogInView](https://github.com/user-attachments/assets/4aae25f5-7b1b-4d19-bf27-17e11436e26f)
 ![AllUsersPosts](https://github.com/user-attachments/assets/6f95bc8f-e069-4ca1-bac7-2a03c3ee8537)
 ![FollowView](https://github.com/user-attachments/assets/f10d1946-9471-4825-9970-551de2b11057)
+![EditProfileView](https://github.com/user-attachments/assets/0adf7221-4f7d-4978-9a3c-3e00de1288ef)
 
 Images are a little blury, sorry about that, they were too big so i have to resize them :D
